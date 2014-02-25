@@ -12,5 +12,5 @@ Create Xcode Plugin folder
   
 Copy Plugin:
   
-  $ sudo cp -rfv Cocotron-Xcode-5-Plugin /Library/Application\ Support/Developer/Shared/Xcode
+  $ sudo cp -rfv GCC\ 4.3.1.xcplugin /Library/Application\ Support/Developer/Shared/Xcode
   
